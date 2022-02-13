@@ -625,9 +625,11 @@ Publish the website in the given URL.
 </html>
 ~~~
 ## OUTPUT:
-![output](item 1.png)
-![output](item 2.png)
-![output](item 3.png)
+![output](read.png)
+
+![output](study.png)
+
+![output](div.png)
 
 ## Result:
 the bootstrap is successfully completed
